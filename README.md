@@ -3,6 +3,7 @@
 <a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
 
 <ul>
+    <a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
     <li> Semester 1
         <ul>
             <li>
