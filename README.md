@@ -1,6 +1,8 @@
 # UBB-Computer-Science
 
-<img src="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"/>
+<div style = "text-align: center;">
+    <img src="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"/>
+</div>
 
 <ul>
     <a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
