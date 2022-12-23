@@ -4,8 +4,7 @@
 <img 
     style = "display: block;
     margin-left: auto;
-    margin-right: auto;
-    width: 30%;"
+    margin-right: auto;"
     src="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"/>
 
 <ul>
