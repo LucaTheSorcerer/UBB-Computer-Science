@@ -1,6 +1,6 @@
 # UBB-Computer-Science
 
-<a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
+<img src="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"/>
 
 <ul>
     <a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
