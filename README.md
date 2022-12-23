@@ -1,6 +1,6 @@
 # UBB-Computer-Science
 
-<a href="https://tenor.com/search/bird-dance-gifs"></a>
+<a href="https://media.tenor.com/YOccsf_dvVgAAAAi/hydranoid-bird-dance.gif"></a>
 
 <ul>
     <li> Semester 1
