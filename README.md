@@ -2,4 +2,5 @@
 
 * **Semester 1**
     <ol>
-        <li> [Fundamentele programarii](https://github.com/LucaTheSorcerer/PythonUniProjects.git) </li>
+        <li> [Fundamentele programarii](https://github.com/LucaTheSorcerer/PythonUniProjects.git)</li>
+    </ol>
