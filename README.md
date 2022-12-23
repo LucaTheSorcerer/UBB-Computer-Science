@@ -1,6 +1,6 @@
 # UBB-Computer-Science
 
-<a href="https://media.tenor.com/YOccsf_dvVgAAAAi/hydranoid-bird-dance.gif"></a>
+<a href="https://github.com/LucaTheSorcerer/UBB-Computer-Science/blob/main/hydranoid-bird-dance.gif"></a>
 
 <ul>
     <li> Semester 1
