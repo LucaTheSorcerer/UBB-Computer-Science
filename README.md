@@ -1,6 +1,11 @@
 # UBB-Computer-Science
 
-* **Semester 1**
-    <ol>
-        <li> [Fundamentele programarii](https://github.com/LucaTheSorcerer/PythonUniProjects.git)</li>
-    </ol>
+<ul>
+    <li> Semester 1
+        <ul>
+            <li>
+                <a>href="https://github.com/LucaTheSorcerer/PythonUniProjects" Fundamentele programarii </a>
+            </li>
+        </ul>
+    </li>
+</ul>
