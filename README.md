@@ -12,7 +12,7 @@
     <li> Semester 1
         <ul>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/PythonUniProjects" Fundamentele programarii> :space_invader: Fundamentals of programming
+                <a href="https://github.com/LucaTheSorcerer/PythonUniProjects" Fundamentals of programming> :space_invader: Fundamentals of programming
                 </a>
             </li>
             <li>
@@ -31,7 +31,35 @@
             </li>
         </ul>
     </li>
+    <li> Semester 2
+        <ul>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Data-Structures-and-Algorithms" Data Structures and Algorithms> :pray: Data Structures and Algorithms
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Operating-Systems" Operating Systems> :alien: Operating Systems
+                 </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Dynamic-Systems" Dynamic Systems>
+                :clubs: Dynamic Systems
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Object-Oriented-Programming" Object Oriented Programming>
+                :video_game: Object Oriented Programming
+                </a>
+            </li>
+        </ul>
+    </li>
+
+
 </ul>
+
+
+
+
 
 <br>
 <img src = "http://www.chem.ubbcluj.ro/romana/conferinte/MEEMB/archive/pictures/ubb.gif" />
