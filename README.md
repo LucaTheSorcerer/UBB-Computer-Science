@@ -43,7 +43,7 @@
             </li>
             <li>
                 <a href="https://github.com/LucaTheSorcerer/Dynamic-Systems" Dynamic Systems>
-                :clubs: Dynamic Systems
+                :hurtrealbad: Dynamic Systems
                 </a>
             </li>
             <li>
