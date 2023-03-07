@@ -52,8 +52,8 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/Object-Oriented-Programming" Object Oriented Programming>
-                :video_game: Object Oriented Programming
+                <a href="https://github.com/LucaTheSorcerer/Graph-Theory" Graph Theory>
+                :godmode: Graph Theory
                 </a>
             </li>
         </ul>
