@@ -74,7 +74,7 @@
                 </a>
             </li>
             <li>
-                <a href="(https://github.com/LucaTheSorcerer/Computer-Networking" Computer Networking>
+                <a href="https://github.com/LucaTheSorcerer/Computer-Networking" Computer Networking>
                 :pager: Computer Networking
                 </a>
             </li>
