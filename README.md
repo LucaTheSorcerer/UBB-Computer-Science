@@ -59,6 +59,9 @@
         </ul>
     </li>
 
+    <li> Semester 3
+    </li> 
+
 
 </ul>
 
