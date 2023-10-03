@@ -58,9 +58,33 @@
             </li>
         </ul>
     </li>
-
     <li> Semester 3
-    </li> 
+        <ul>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Advanced-Programming-Methods" Advanced Programming Methods> :purple_heart: Advanced Programming Methods
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Operating-Systems" Operating Systems> :alien: Operating Systems
+                 </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Dynamic-Systems" Dynamic Systems>
+                :feelsgood: Dynamic Systems
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Object-Oriented-Programming" Object Oriented Programming>
+                :video_game: Object Oriented Programming
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/LucaTheSorcerer/Graph-Theory" Graph Theory>
+                :godmode: Graph Theory
+                </a>
+            </li>
+        </ul>
+    </li>
 
 
 </ul>
