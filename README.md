@@ -65,7 +65,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/Operating-Systems" Operating Systems> :alien: Operating Systems
+                <a href="[https://github.com/LucaTheSorcerer/Operating-Systems](https://github.com/LucaTheSorcerer/Probability-And-Statistics)" Probability And Statistics> :finnadie: Probability And Statistics
                  </a>
             </li>
             <li>
