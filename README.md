@@ -69,18 +69,18 @@
                  </a>
             </li>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/Dynamic-Systems" Dynamic Systems>
-                :feelsgood: Dynamic Systems
+                <a href="https://github.com/LucaTheSorcerer/Logic-Programming" Logic Programming>
+                :syringe: Logic Programming
                 </a>
             </li>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/Object-Oriented-Programming" Object Oriented Programming>
-                :video_game: Object Oriented Programming
+                <a href="(https://github.com/LucaTheSorcerer/Computer-Networking" Computer Networking>
+                :pager: Computer Networking
                 </a>
             </li>
             <li>
-                <a href="https://github.com/LucaTheSorcerer/Graph-Theory" Graph Theory>
-                :godmode: Graph Theory
+                <a href="https://github.com/LucaTheSorcerer/Data-Bases" Data Bases>
+                :fire: Data Bases
                 </a>
             </li>
         </ul>
